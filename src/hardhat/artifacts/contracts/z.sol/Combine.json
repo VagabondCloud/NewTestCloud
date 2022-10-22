@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Combine",
+  "sourceName": "contracts/z.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220d5f1026ac19dd00c4be37eee9c8598a810d0c5062c0778d311d8f8816c4a99f764736f6c63430008090033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220d5f1026ac19dd00c4be37eee9c8598a810d0c5062c0778d311d8f8816c4a99f764736f6c63430008090033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
