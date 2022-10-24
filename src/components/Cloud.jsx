@@ -5,9 +5,9 @@ import { useEffect } from 'react';
 import car from "../hardhat/artifacts/contracts/carContract.sol/CarMint.json";
 import node from "../hardhat/artifacts/contracts/mintNode.sol/MintNode.json";
 
-const carContract = "0xc632524431E82E46eC8A72869D88f2FcbD54dc1B";
-const nodeContract = "0x10f032780C07A4029604ed59f90f12D5F5AEcA81";
-const brainsContract = "0x884431d9F4E1D251e24d04c5673724cb4ba0490c";
+const carContract = "0x82851FCB4f4436392225D5C7bAa67Df660Ac9246";
+const nodeContract = "0x9877b01354a44E07104cb9B483BD3804Ca2cc635";
+const brainsContract = "0x2fc7BF39a8141Cd114a8191b605603DF0495b9E9";
 
     var url = "https://data-seed-prebsc-1-s1.binance.org:8545/";    
     var customHttpProvider = new ethers.providers.JsonRpcProvider(url);
