@@ -6,7 +6,7 @@ import car from "../hardhat/artifacts/contracts/carContract.sol/CarMint.json";
 import node from "../hardhat/artifacts/contracts/mintNode.sol/MintNode.json";
 
 const carContract = "0x82851FCB4f4436392225D5C7bAa67Df660Ac9246";
-const nodeContract = "0x9877b01354a44E07104cb9B483BD3804Ca2cc635";
+const nodeContract = "0x496F6901094ECA6F78e7F53810A586459431b043";
 const brainsContract = "0x2fc7BF39a8141Cd114a8191b605603DF0495b9E9";
 
     var url = "https://data-seed-prebsc-1-s1.binance.org:8545/";    
